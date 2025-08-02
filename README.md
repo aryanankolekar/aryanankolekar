@@ -64,10 +64,6 @@ Currently working on:
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanankolekar&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
 ---
 
 ## Let's Collaborate
